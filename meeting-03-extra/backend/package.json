@@ -1,0 +1,18 @@
+{
+  "name": "meeting-03-extra",
+  "version": "1.0.0",
+  "description": "Backend de express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express.js",
+    "acamica"
+  ],
+  "author": "Pablo Drappo <pablodrappo@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
